@@ -1,0 +1,15 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{1295aecf-9bf1-4ac7-a5a5-c1a8c951559b}") = "AtfDemoApp", "..\packages\AtfDemoApp\Files\AtfDemoApp.csproj", "{c9d69c51-030a-4284-ba14-338e6a3d80f1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+			{c9d69c51-030a-4284-ba14-338e6a3d80f1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+			{c9d69c51-030a-4284-ba14-338e6a3d80f1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+			{c9d69c51-030a-4284-ba14-338e6a3d80f1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+			{c9d69c51-030a-4284-ba14-338e6a3d80f1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

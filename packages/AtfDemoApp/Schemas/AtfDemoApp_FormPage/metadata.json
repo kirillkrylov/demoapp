@@ -1,0 +1,8 @@
+= MetaData.Schema.UId "0ef83bf3-d866-4758-a361-46dad53185e5"
+= MetaData.Schema.A2 "AtfDemoApp_FormPage"
+= MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
+~ MetaData.Schema.B2 ["1411058a-649a-4fbc-b14b-0b952a90aa94","3e52338e-dcdc-46ad-acb2-91fbd7d7bd59","a1efe8ce-a51d-4983-9ac0-15777430ac58","8716b090-ae7c-4434-8604-70f7ebb216d8"]
+= MetaData.Schema.B6 "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2"
+= MetaData.Schema.HD1 "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

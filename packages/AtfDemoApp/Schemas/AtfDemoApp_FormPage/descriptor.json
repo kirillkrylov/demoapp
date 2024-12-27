@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0ef83bf3-d866-4758-a361-46dad53185e5",
+    "Name": "AtfDemoApp_FormPage",
+    "ModifiedOnUtc": "\/Date(1735265437000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Demo app form page",
+    "DependsOn": []
+  }
+}

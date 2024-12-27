@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e68f8cba-66bf-4552-8436-e15e1948f67d",
+    "Name": "AtfDemoAppRelatedPage",
+    "ModifiedOnUtc": "\/Date(1735265437000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Demo app (Page settings)",
+    "DependsOn": []
+  }
+}

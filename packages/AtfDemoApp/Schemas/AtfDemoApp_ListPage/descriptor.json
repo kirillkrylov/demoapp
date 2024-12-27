@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6e127c59-d723-4fe5-843c-4c64ea877c47",
+    "Name": "AtfDemoApp_ListPage",
+    "ModifiedOnUtc": "\/Date(1735265437000)\/",
+    "Parent": {
+      "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
+      "Name": "ListPageV2Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Demo app list page",
+    "DependsOn": []
+  }
+}

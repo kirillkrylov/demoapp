@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "32b20df0-0cde-4037-9208-26e3d475eb79",
+    "Name": "AtfDemoApp_Detail",
+    "ModifiedOnUtc": "\/Date(1735265437000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Demo app detail",
+    "DependsOn": []
+  }
+}

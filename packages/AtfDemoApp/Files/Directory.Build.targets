@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/AtfDemoApp/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/AtfDemoApp/Data/**" />
+		<Compile Remove="$(PkgPath)/AtfDemoApp/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/AtfDemoApp/Schemas\**" />
+		<Compile Remove="$(PkgPath)/AtfDemoApp/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AtfDemoApp/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AtfDemoApp/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AtfDemoApp/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AtfDemoApp/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AtfDemoApp/Resources/**" />
+		<None Remove="$(PkgPath)/AtfDemoApp/Assemblies/**" />
+		<None Remove="$(PkgPath)/AtfDemoApp/Data/**" />
+		<None Remove="$(PkgPath)/AtfDemoApp/SqlScripts/**" />
+		<None Remove="$(PkgPath)/AtfDemoApp/Schemas/**" />
+		<None Remove="$(PkgPath)/AtfDemoApp/Resources/**" />
+  </ItemGroup>
+</Project>
